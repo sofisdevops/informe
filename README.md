@@ -124,3 +124,24 @@ Explorando Git y GitHub
 <p>Condensa la información, muestra un número que identifica los commit.</p>
 <img width="689" height="288" alt="image" src="https://github.com/user-attachments/assets/d4d05919-1195-44d4-9860-8ec40e8d896c" />
 <br>
+<h3>Git Branch</h3>
+<p>Berificar en que rama nos encontramos</p>
+<img width="429" height="109" alt="image" src="https://github.com/user-attachments/assets/0889d5e4-d83a-48c6-b23c-3ef99f2fd12e" />
+<br>
+<h3>git checkout -b</h3>
+<p>Crear una nueva rama</p>
+<img width="429" height="100" alt="image" src="https://github.com/user-attachments/assets/d5091c32-5da4-468a-933b-6c420fb817d8" />
+<br>
+<h3>cat</h3>
+<p>Muestra el contenido del archivo</p>
+<img width="427" height="115" alt="image" src="https://github.com/user-attachments/assets/88bac611-6a43-4f76-9594-b81b53cd5102" />
+<br>
+<h3>Git merge (rama que quieres incluir a la rama master)</h3>
+<p>Interta una rama dev a la rama principal</p>
+<br>
+<h3>Git remote add origin</h3>
+<p>Indicar si deseamos un servidor remoto en el cual queramos guardar los cambios.</p>
+<br>
+<h3>Git Push -u origin (nombre de rama)</h3>
+<p>enviar tus cambios desde tu zona de trabajo local al proyecto en la nube, para que queden guardados allá también.</p>
+<br>
